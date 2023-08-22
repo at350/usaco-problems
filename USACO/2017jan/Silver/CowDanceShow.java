@@ -20,7 +20,7 @@ public class CowDanceShow {
             danceTimes[i] = Integer.parseInt(br.readLine());
         }
 
-        int low = 1;
+        int low = 1; 
         int high = N;
         while (low < high) {
             int mid = (low + high) / 2;
