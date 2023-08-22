@@ -3,7 +3,7 @@ from slugify import slugify
 
 host = 'http://www.usaco.org/'
 name = 'USACO'
-languages = ('cpp', 'java', 'py')
+languages = ('java')
 
 curr_path = (os.path.dirname(os.path.abspath(__file__)))
 root_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir)
