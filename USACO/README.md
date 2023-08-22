@@ -1,6 +1,6 @@
 # USACO
 #### Bronze Solved 0/104 0.00%
-#### Silver Solved 0/102 0.00%
+#### Silver Solved 1/102 0.98%
 #### Gold Solved 0/101 0.00%
 #### Platinum Solved 0/93 0.00%
 # 2023feb
@@ -437,7 +437,7 @@
 | Gold 1 | Balanced Photo | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=693) | [2017jan/Gold/1.py](2017jan/Gold/1.py) | unsolved |
 | Gold 2 | Hoof, Paper, Scissors | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=694) | [2017jan/Gold/2.py](2017jan/Gold/2.py) | unsolved |
 | Gold 3 | Cow Navigation | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=695) | [2017jan/Gold/3.py](2017jan/Gold/3.py) | unsolved |
-| Silver 1 | Cow Dance Show | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=690) | [2017jan/Silver/1.py](2017jan/Silver/1.py) | unsolved |
+| Silver 1 | Cow Dance Show | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=690) | [2017jan/Silver/CowDanceShow.java](2017jan/Silver/CowDanceShow.java) | AC |
 | Silver 2 | Hoof, Paper, Scissors | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=691) | [2017jan/Silver/2.py](2017jan/Silver/2.py) | unsolved |
 | Silver 3 | Secret Cow Code | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=692) | [2017jan/Silver/3.py](2017jan/Silver/3.py) | unsolved |
 | Bronze 1 | Don't Be Last! | [Link](http://www.usaco.org/index.php?page=viewproblem2&cpid=687) | [2017jan/Bronze/1.py](2017jan/Bronze/1.py) | unsolved |
